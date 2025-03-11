@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**Alien4Gamer/Alien4Gamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Marc Haske, an aspiring software developer with a passion for technology, Japan, and vegan living. 
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💻 Currently learning and improving my skills in software development
+- 🎓 Studying and expanding my knowledge through a training program
+- 🍣 Vegan and passionate about ethical living
+- 🇯🇵 Interested in Japanese culture and language
+- 🎶 Big fan of Anya Nami
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Interests
+- 🔹 Programming Languages: Python, JavaScript, Java, c#
+- 🔹 Web Development: HTML
+- 🔹 Databases: SQL
+- 🔹 AI & Machine Learning Enthusiast
+
+### 📫 How to Reach Me
+- GitHub: [Alien4Gamer](https://github.com/Alien4Gamer)
+- Email: []
+- LinkedIn: [] 
+
+⚡ Fun fact: I love discovering cozy cafés and scenic spots for relaxation!
+
+Let's connect and build something amazing together! 🚀
