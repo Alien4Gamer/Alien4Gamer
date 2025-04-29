@@ -1,25 +1,25 @@
-## Hi there 👋
 
-I'm Marc Haske, an aspiring software developer with a passion for technology, Japan, and vegan living. 
+## Hi there, I'm Marc Haske 👋  
+Backend Developer with a strong technical foundation and a knack for clear communication. Passionate about building scalable, efficient systems that solve real-world problems.
 
-### 🚀 About Me
-- 💻 Currently learning and improving my skills in software development
-- 🎓 Studying and expanding my knowledge through a training program
-- 🍣 Vegan and passionate about ethical living
-- 🇯🇵 Interested in Japanese culture and language
-- 🎶 Big fan of Anya Nami
+### 🚀 Currently Working On
+- 💻 Developing a more challenging alternative Pokémon game.
+- 🔧 Enhancing my backend and AI skills through a specialized bootcamp.
 
 ### 🛠️ Tech Stack & Interests
-- 🔹 Programming Languages: Python, JavaScript, Java, c#
-- 🔹 Web Development: HTML
-- 🔹 Databases: SQL
-- 🔹 AI & Machine Learning Enthusiast
+- 🔹 **Programming Languages:** Python, Java, C#
+- 🔹 **Web Development:** HTML, CSS
+- 🔹 **Databases:** SQL
+- 🔹 **AI & Machine Learning:** Enthusiast and continuous learner.
+
+### 🚀 About Me
+- 🕺 Passionate about dancing and skating as a way to free my mind.
+- 🍣 Vegan and deeply committed to ethical living.
+- 🇯🇵 Fascinated by Japanese culture and language.
 
 ### 📫 How to Reach Me
 - GitHub: [Alien4Gamer](https://github.com/Alien4Gamer)
-- Email: []
-- LinkedIn: [] 
-
-⚡ Fun fact: I love discovering cozy cafés and scenic spots for relaxation!
+- Email: [marc.haske@gmail.com](mailto:marc.haske@gmail.com)
+- LinkedIn: [Marc Haske](https://www.linkedin.com/in/marc-haske)
 
 Let's connect and build something amazing together! 🚀
