@@ -2,9 +2,9 @@
 ## Hi there, I'm Marc Haske 👋  
 Backend Developer with a strong technical foundation and a knack for clear communication. Passionate about building scalable, efficient systems that solve real-world problems.
 
-### 🚀 Currently Working On
+### 🔧 Currently Working On
 - 💻 Developing a more challenging alternative Pokémon game.
-- 🔧 Enhancing my backend and AI skills through a specialized bootcamp.
+- 📈 Enhancing my backend and AI skills through a specialized bootcamp.
 
 ### 🛠️ Tech Stack & Interests
 - 🔹 **Programming Languages:** Python, Java, C#
@@ -22,4 +22,4 @@ Backend Developer with a strong technical foundation and a knack for clear commu
 - Email: [marc.haske@gmail.com](mailto:marc.haske@gmail.com)
 - LinkedIn: [Marc Haske](https://www.linkedin.com/in/marc-haske)
 
-Let's connect and build something amazing together! 🚀
+Let's connect and build something amazing together! 💡
